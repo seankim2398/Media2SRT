@@ -1,5 +1,5 @@
 # Media2SRT
-Converts Video/Audio file into SRT subtitle file.
+Converts Video/Audio file into SRT subtitle file. Using Gradio as the UI, upload a video/audio file with option to transcribe/translate into SRT subtitle.
 
 # Quick Start
 For Mac/Windows users, there is a known bug, please use the following workaround:
