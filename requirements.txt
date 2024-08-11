@@ -1,0 +1,9 @@
+git+https://github.com/huggingface/transformers
+torch
+whisper_at
+gradio
+numba 
+numpy
+tqdm 
+more-itertools 
+tiktoken==0.3.3
