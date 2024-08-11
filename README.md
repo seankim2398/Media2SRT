@@ -1,5 +1,5 @@
 # Media2SRT
-Converts Video/Audio file into SRT subtitle file
+Converts Video/Audio file into SRT subtitle file.
 
 # Quick Start
 For Mac/Windows users, there is a known bug, please use the following workaround:
@@ -12,6 +12,12 @@ pip install --no-deps whisper-at
 Also, install rust: 
 ```
 https://www.rust-lang.org/tools/install
+```
+
+# Note
+I am not the original creator of Whisper AT, the original repository is here:
+```
+https://github.com/YuanGongND/whisper-at
 ```
 
 # Citation
